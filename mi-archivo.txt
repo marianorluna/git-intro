@@ -1,2 +1,4 @@
 Esto es un texto de ejemplo para GIT.
 Esta es una segunda línea.
+Volvemos a agregar otra tercera línea.
+Y terminamos con una cuarta.
