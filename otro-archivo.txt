@@ -1,0 +1,2 @@
+Este es el contenido del nuevo archivo.
+Son sólo dos líneas.
